@@ -1,7 +1,7 @@
 # React-Native-Theme Next-Page-Events
 
 
-## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+## [You can Download source code here ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
 
 ### Home Screen
 <img src="https://github.com/nextpagetech/React-Native-App-Next-Page-Events/blob/master/landingpage.jpeg" alt='Home Screen'  />
@@ -24,4 +24,4 @@
 
 
 
-## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+## [You can Download source code here ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
