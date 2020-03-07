@@ -1,7 +1,7 @@
 # React-Native-Theme Next-Page-Events
 
 
-## [You can Download source code here ( Completely free theme )](https://nextpagetechnologies.com/Welcome/donwlodRNTheme/rn1)
+## [You can Download source code here ( Completely free theme )](https://nextpagetechnologies.com/Welcome/donwlodTheme/rn1)
 
 ### Home Screen
 <img src="https://github.com/nextpagetech/React-Native-App-Next-Page-Events/blob/master/landingpage.jpeg" alt='Home Screen'  />
