@@ -4,7 +4,7 @@
 ## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
 
 ### Home Screen
-<img src="https://github.com/nextpagetech/React-Native-App-Next-Page-Events/blob/master/landingpage.jpeg" alt='Home Screen' width='100%' height='100%' />
+<img src="https://github.com/nextpagetech/React-Native-App-Next-Page-Events/blob/master/landingpage.jpeg" alt='Home Screen'  />
 
 ### About Us Screen
 
